@@ -3,6 +3,8 @@ Module 2 Challenge
 
 Bryson's VBA Challenge Results
 
+All of the code isgenerated from class material with some help from stackoverflow for specifics: such as how to format a whole column for $xx.xx or limit the number of spaces after the demical in scientific notion.
+
 This is a program designed to parse stock value information for an excel document. The program works for an excel document with the following structure
 Column A: Ticker Name
 Column B: Ticker Name in Yeare/Month/Format 
